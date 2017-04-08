@@ -8,7 +8,7 @@ benjamin.birnbaum@gmail.com
 
 Example use of outlierdetect.py module.
 """
-
+#hello_world
 from matplotlib import mlab
 import outlierdetect
 import pandas as pd
